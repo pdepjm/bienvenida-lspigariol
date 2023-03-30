@@ -8,7 +8,7 @@ me gusta
 - helado de dulce de leche granizado
 
 
-![aca va la foto](lucas.jpg)
+![aca va la foto](zombie.jpg)
 
 
 
